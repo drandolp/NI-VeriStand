@@ -26,7 +26,10 @@
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Copy .LLB to NI VeriStand dir.vi" Type="VI" URL="../Utility/Copy .LLB to NI VeriStand dir.vi"/>
 		</Item>
+		<Item Name="Channel 1.vi" Type="VI" URL="../Channel 1.vi"/>
+		<Item Name="Channel 2.vi" Type="VI" URL="../Channel 2.vi"/>
 		<Item Name="Custom Device UDP Sender.xml" Type="Document" URL="../Custom Device UDP Sender.xml"/>
+		<Item Name="Section 1.vi" Type="VI" URL="../Section 1.vi"/>
 		<Item Name="UDP Sender Engine.lvlib" Type="Library" URL="../Engine/UDP Sender Engine.lvlib"/>
 		<Item Name="UDP Sender Shared.lvlib" Type="Library" URL="../Shared/UDP Sender Shared.lvlib"/>
 		<Item Name="UDP Sender System Explorer.lvlib" Type="Library" URL="../System Explorer/UDP Sender System Explorer.lvlib"/>

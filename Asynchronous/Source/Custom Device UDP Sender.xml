@@ -76,8 +76,21 @@
         <Type>To Common Doc Dir</Type>
 		<Path>Custom Devices\UDP Sender\UDP Sender Configuration.llb\Main Page.vi</Path>
       </Item2Launch>
+	  <RunTimeMenu>
+		<MenuItem>
+			<GUID>675c8a1b-deef-4726-9291-3484f6f125e1</GUID>
+			<Type>Action</Type>
+			<Name>
+				<eng>Add Channel</eng>
+				<loc>Add Channel</loc>
+			</Name>
+			<Item2Launch>
+				<Type>To Common Doc Dir</Type>
+				<Path>Custom Devices\UDP Sender\UDP Sender Configuration.llb\RunTimeMenu Custom Launch.vi</Path>
+			</Item2Launch>
+		</MenuItem>
+	  </RunTimeMenu>
     </Page>
-    
   </Pages>
   <CustomXML>
     <Dummy></Dummy>
